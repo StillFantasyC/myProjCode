@@ -1,2 +1,2 @@
 # myProjCode
-# for test locad and remote
+# for test
